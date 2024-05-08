@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.input{
+  background-color: rgb(240, 248, 255);
+}
+.table{
+  background-color: rgb(5, 113, 84);
+  text-wrap: bold;
+  color: rgb(14, 11, 11);
+}
+.row{
+  font-style: italic;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(5, 5, 5);
+  background-color: aliceblue;
+}
+.trow{
+  font-style: italic;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(23, 21, 21);
+}
